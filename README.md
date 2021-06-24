@@ -1,16 +1,12 @@
 # exercise_app
 
-A new Flutter application.
+A new Flutter demo application for Rajasthan Studio.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![1](https://user-images.githubusercontent.com/2523192/123291228-8cf55680-d52f-11eb-9ed6-02742f33a2f2.jpg)
+![2](https://user-images.githubusercontent.com/2523192/123291325-9ed6f980-d52f-11eb-8010-73ada62da612.jpg)
+![3](https://user-images.githubusercontent.com/2523192/123291344-a3031700-d52f-11eb-93f0-4526fd88f55f.jpg)
+![4](https://user-images.githubusercontent.com/2523192/123291356-a5657100-d52f-11eb-9905-6963639b4750.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Used Pexels API to showcase curated Images and top videos in a tab. 
